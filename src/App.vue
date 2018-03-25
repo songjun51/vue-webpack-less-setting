@@ -10,7 +10,7 @@ export default {
    data() {
     //데이터는 정적인 데이터 처리해
     return {
-      msg : '15회 앱잼은 현재'
+      msg : ''
     };
   },
   computed: {
@@ -27,5 +27,5 @@ export default {
 </script>
 
 <style>
-@import "assets/app.css";
+/* @import "assets/app.css"; */
 </style>
